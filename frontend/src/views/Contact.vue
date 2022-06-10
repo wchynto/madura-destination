@@ -13,6 +13,7 @@ import HeaderContact from "../components/contact/HeaderContact.vue";
 import FooterPage from "../components/partials/FooterPage.vue";
 import NavbarPage from "../components/partials/NavbarPage.vue";
 export default {
+  name: "Contact",
   components: { NavbarPage, FooterPage, HeaderContact, ContactForm },
 };
 </script>
