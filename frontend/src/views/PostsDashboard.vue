@@ -8,6 +8,8 @@
         <section class="content">
           <div class="container-fluid">
             <!--content here-->
+            <posts-table></posts-table>
+            <modal-post></modal-post>
           </div>
         </section>
       </div>
@@ -19,6 +21,8 @@
 import NavbarDashboard from "../components/partials/NavbarDashboard.vue";
 import SidebarDashboard from "../components/partials/SidebarDashboard.vue";
 import PageHeaderDashboard from "../components/partials/PageHeaderDashboard.vue";
+import PostsTable from "../components/post_dashboard/PostsTable.vue";
+import ModalPost from "../components/post_dashboard/ModalPost.vue";
 
 export default {
   name: "PostsDashboard",
@@ -26,6 +30,8 @@ export default {
     NavbarDashboard,
     SidebarDashboard,
     PageHeaderDashboard,
+    PostsTable,
+    ModalPost,
   },
 };
 </script>

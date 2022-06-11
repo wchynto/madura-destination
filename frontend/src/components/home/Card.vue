@@ -7,7 +7,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/AirTerjunToroan-Sampang-1.jpg"
+              src="images/AirTerjunToroan-Sampang-1.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -25,7 +25,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/BukitArosbaya-Bangkalan-1.jpeg"
+              src="images/BukitArosbaya-Bangkalan-1.jpeg"
               alt=""
           /></a>
           <div class="card-body">
@@ -43,7 +43,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/BukitJaddih-Bangkalan-1.jpg"
+              src="images/BukitJaddih-Bangkalan-1.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -61,7 +61,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/BukitWaru-Pamekasan-1.jpg"
+              src="images/BukitWaru-Pamekasan-1.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -81,7 +81,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/GiliIyang-Sumenep-1.jpg"
+              src="images/GiliIyang-Sumenep-1.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -99,7 +99,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/GiliLabak-Sumenep-1.jpg"
+              src="images/GiliLabak-Sumenep-1.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -117,7 +117,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/GiliPandan-Sumenep-2.jpg"
+              src="images/GiliPandan-Sumenep-2.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -135,7 +135,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/GuaBlaban-Pamekasan-3.jpg"
+              src="images/GuaBlaban-Pamekasan-3.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -155,7 +155,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/KarapanSapiMadura-1.jpg"
+              src="images/KarapanSapiMadura-1.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -173,7 +173,7 @@
             ><img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/PemandianSumberPocong-Bangkalan-1.jpg"
+              src="images/PemandianSumberPocong-Bangkalan-1.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -191,7 +191,7 @@
             <img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/BukitJaddih-Bangkalan-1.jpg"
+              src="images/BukitJaddih-Bangkalan-1.jpg"
               alt=""
           /></a>
           <div class="card-body">
@@ -209,7 +209,7 @@
             <img
               class="card-img-top"
               id="card-img"
-              src="@/assets/images/BukitWaru-Pamekasan-1.jpg"
+              src="images/BukitWaru-Pamekasan-1.jpg"
               alt=""
           /></a>
           <div class="card-body">

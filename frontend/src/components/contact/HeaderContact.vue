@@ -2,7 +2,7 @@
   <div class="header shadow">
     <img
       class="image-header"
-      src="@/assets/images/AirTerjunToroan-Sampang-4.jpg"
+      src="images/AirTerjunToroan-Sampang-4.jpg"
       alt=""
     />
     <div class="header-text">Contact Us</div>

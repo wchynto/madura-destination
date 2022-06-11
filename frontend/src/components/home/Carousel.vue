@@ -10,7 +10,7 @@
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active">
         <img
-          src="@/assets/images/GiliLabak-Sumenep-3.jpg"
+          src="images/GiliLabak-Sumenep-3.jpg"
           class="d-block mx-auto image-carousel"
           alt="..."
         />
@@ -24,7 +24,7 @@
       </div>
       <div class="carousel-item">
         <img
-          src="@/assets/images/BukitArosbaya-Bangkalan-1.jpeg"
+          src="images/BukitArosbaya-Bangkalan-1.jpeg"
           class="d-block mx-auto image-carousel"
           alt="..."
         />
@@ -38,7 +38,7 @@
       </div>
       <div class="carousel-item">
         <img
-          src="@/assets/images/BukitJaddih-Bangkalan-3.jpg"
+          src="images/BukitJaddih-Bangkalan-3.jpg"
           class="d-block mx-auto image-carousel"
           alt="..."
         />
@@ -52,7 +52,7 @@
       </div>
       <div class="carousel-item">
         <img
-          src="@/assets/images/GiliIyang-Sumenep-1.jpg"
+          src="images/GiliIyang-Sumenep-1.jpg"
           class="d-block mx-auto image-carousel"
           alt="..."
         />
@@ -66,7 +66,7 @@
       </div>
       <div class="carousel-item">
         <img
-          src="@/assets/images/GiliPandan-Sumenep-3.jpg"
+          src="images/GiliPandan-Sumenep-3.jpg"
           class="d-block mx-auto image-carousel"
           alt="..."
         />

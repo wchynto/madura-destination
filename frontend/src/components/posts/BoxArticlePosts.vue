@@ -3,8 +3,11 @@
     <table>
       <tr>
         <td>
+          <img src="images/GiliIyang-Sumenep-4.jpg" alt="" />
+        </td>
+        <td>
           <div>
-            <h3 style="font-size: 5vw">Jembatan Suramadu</h3>
+            <h3 style="font-size: 5vw">Gili Iyang</h3>
             <p style="font-size: 2vw">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente
               ab incidunt corrupti est. Numquam, beatae qui sapiente officia
@@ -13,9 +16,6 @@
             </p>
           </div>
         </td>
-        <td>
-          <img src="images/suramadu-bridge.jpg" alt="" />
-        </td>
       </tr>
     </table>
   </div>
@@ -23,37 +23,33 @@
 
 <script>
 export default {
-  name: "BoxArticle",
+  name: "BoxArticlePosts",
 };
 </script>
 
 <style scoped>
 #box-article {
-  border-top-left-radius: 30px;
-  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
   padding-top: 30px;
   padding-bottom: 30px;
   margin-top: 50px;
-  margin-left: 7vw;
+  margin-right: 7vw;
   background-color: black;
 }
 
 #box-article img {
-  border-top-left-radius: 30px;
-  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
   width: 50vw;
-  margin-left: auto;
+  margin-right: auto;
   display: block;
 }
 
 #box-article div {
-  margin-right: 6px;
+  margin-left: 10px;
   color: white;
   font-size: 1.5vw;
   display: block;
-}
-
-#box-article table {
-  margin-left: 4vw;
 }
 </style>

@@ -1,13 +1,14 @@
 import { createApp } from "vue";
 import App from "./App.vue";
 import router from "./router";
-
 import jQuery from "jquery";
 
+// global.lightGallery = lightGallery;
 global.$ = jQuery;
 
 import "font-awesome/css/font-awesome.css";
 import "bootstrap/dist/css/bootstrap.css";
+import "lightgallery/css/lightgallery.css";
 import "ionicons/css/ionicons.css";
 import "admin-lte/dist/css/adminlte.css";
 

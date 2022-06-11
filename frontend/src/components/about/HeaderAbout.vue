@@ -2,7 +2,7 @@
   <div class="header shadow">
     <img
       class="image-header"
-      src="@/assets/images/KeindahanPantaiSembilanMadura.jpg"
+      src="images/KeindahanPantaiSembilanMadura.jpg"
       alt=""
     />
     <div class="header-text">About Us</div>
