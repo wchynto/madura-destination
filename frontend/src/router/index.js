@@ -5,6 +5,8 @@ import Contact from "../views/Contact.vue";
 import Posts from "../views/Posts.vue";
 import Dashboard from "../views/Dashboard.vue";
 import PostsDashboard from "../views/PostsDashboard.vue";
+import Login from "../views/Login.vue";
+import Register from "../views/Register.vue";
 
 const routes = [
   {
@@ -42,6 +44,16 @@ const routes = [
     path: "/posts",
     name: "Posts",
     component: Posts,
+  },
+  {
+    path: "/login",
+    name: "Login",
+    component: Login,
+  },
+  {
+    path: "/register",
+    name: "Register",
+    component: Register,
   },
   // {
   //   path: "*",
