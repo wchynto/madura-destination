@@ -19,7 +19,7 @@ export default {
 @media only screen and (max-width: 1366px) {
   .image-header {
     width: 100%;
-    height: 40.4vw;
+    height: 45vw;
     filter: brightness(80%);
   }
 }
